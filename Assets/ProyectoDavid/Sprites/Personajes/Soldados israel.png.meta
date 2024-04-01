@@ -1,0 +1,4964 @@
+fileFormatVersion: 2
+guid: a8f75b43ae9d94849b793ca6a44a94e4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1830462376858687742
+    second: Soldados israel_0
+  - first:
+      213: -1595553926861748356
+    second: Soldados israel_1
+  - first:
+      213: 1862575180985475122
+    second: Soldados israel_2
+  - first:
+      213: 2675831803848444665
+    second: Soldados israel_3
+  - first:
+      213: 1421007347145103870
+    second: Soldados israel_4
+  - first:
+      213: 3261189829266427509
+    second: Soldados israel_5
+  - first:
+      213: -8773416715365697350
+    second: Soldados israel_6
+  - first:
+      213: -148978229042548935
+    second: Soldados israel_7
+  - first:
+      213: 3444224044892188829
+    second: Soldados israel_8
+  - first:
+      213: 6477084772997334747
+    second: Soldados israel_9
+  - first:
+      213: 8671054038170904474
+    second: Soldados israel_10
+  - first:
+      213: -3763467742308982808
+    second: Soldados israel_11
+  - first:
+      213: 3940022761011234971
+    second: Soldados israel_12
+  - first:
+      213: 1193625449001549382
+    second: Soldados israel_13
+  - first:
+      213: -7696244390316492776
+    second: Soldados israel_14
+  - first:
+      213: 5645528435239917355
+    second: Soldados israel_15
+  - first:
+      213: 36236463429564470
+    second: Soldados israel_16
+  - first:
+      213: 2516714084996613128
+    second: Soldados israel_17
+  - first:
+      213: 3298462742897649494
+    second: Soldados israel_18
+  - first:
+      213: -1712867826100754302
+    second: Soldados israel_19
+  - first:
+      213: 4294490745069742588
+    second: Soldados israel_20
+  - first:
+      213: -4513236070893641182
+    second: Soldados israel_21
+  - first:
+      213: 2623465529134639709
+    second: Soldados israel_22
+  - first:
+      213: 3303978181741657975
+    second: Soldados israel_23
+  - first:
+      213: -8665375537453596757
+    second: Soldados israel_24
+  - first:
+      213: 5964818908297317568
+    second: Soldados israel_25
+  - first:
+      213: -5996105199260242421
+    second: Soldados israel_26
+  - first:
+      213: 2148036718523254147
+    second: Soldados israel_27
+  - first:
+      213: -7797749193944016016
+    second: Soldados israel_28
+  - first:
+      213: -7646609385196077467
+    second: Soldados israel_29
+  - first:
+      213: -7017802267244427209
+    second: Soldados israel_30
+  - first:
+      213: -3680766870816430858
+    second: Soldados israel_31
+  - first:
+      213: 6109035851257788000
+    second: Soldados israel_32
+  - first:
+      213: -4347959868352339492
+    second: Soldados israel_33
+  - first:
+      213: 3522284139130591927
+    second: Soldados israel_34
+  - first:
+      213: 1050514935788132067
+    second: Soldados israel_35
+  - first:
+      213: -4977690312090196299
+    second: Soldados israel_36
+  - first:
+      213: 3949045844306234950
+    second: Soldados israel_37
+  - first:
+      213: 471665880672531419
+    second: Soldados israel_38
+  - first:
+      213: 4159636354921830399
+    second: Soldados israel_39
+  - first:
+      213: -7365369410086427162
+    second: Soldados israel_40
+  - first:
+      213: 1453872811388733678
+    second: Soldados israel_41
+  - first:
+      213: 1510020098889203310
+    second: Soldados israel_42
+  - first:
+      213: 8874010390884032602
+    second: Soldados israel_43
+  - first:
+      213: -1532660221525953861
+    second: Soldados israel_44
+  - first:
+      213: -5927464793161680008
+    second: Soldados israel_45
+  - first:
+      213: -968945401516779433
+    second: Soldados israel_46
+  - first:
+      213: 9125996352347248033
+    second: Soldados israel_47
+  - first:
+      213: 5888245655873647489
+    second: Soldados israel_48
+  - first:
+      213: 6770061679248689122
+    second: Soldados israel_49
+  - first:
+      213: 2145066077235218813
+    second: Soldados israel_50
+  - first:
+      213: -2343963422206399468
+    second: Soldados israel_51
+  - first:
+      213: -4723248943163406251
+    second: Soldados israel_52
+  - first:
+      213: 2829897374245159949
+    second: Soldados israel_53
+  - first:
+      213: -4048680327555489505
+    second: Soldados israel_54
+  - first:
+      213: 5125151884308640790
+    second: Soldados israel_55
+  - first:
+      213: 8389418202125610250
+    second: Soldados israel_56
+  - first:
+      213: -3408387534788485123
+    second: Soldados israel_57
+  - first:
+      213: 2661148730769328407
+    second: Soldados israel_58
+  - first:
+      213: -131236061524300575
+    second: Soldados israel_59
+  - first:
+      213: 3712928663936002942
+    second: Soldados israel_60
+  - first:
+      213: -3748027839004327041
+    second: Soldados israel_61
+  - first:
+      213: -2734837522859232387
+    second: Soldados israel_62
+  - first:
+      213: -8426300466801885635
+    second: Soldados israel_63
+  - first:
+      213: -9105912422006002657
+    second: Soldados israel_64
+  - first:
+      213: 5520536958448927353
+    second: Soldados israel_65
+  - first:
+      213: -3591762299280021127
+    second: Soldados israel_66
+  - first:
+      213: -3998210954222023248
+    second: Soldados israel_67
+  - first:
+      213: 3035916271656607750
+    second: Soldados israel_68
+  - first:
+      213: -7980487965320681669
+    second: Soldados israel_69
+  - first:
+      213: 4279815378908794989
+    second: Soldados israel_70
+  - first:
+      213: -8596892154001574970
+    second: Soldados israel_71
+  - first:
+      213: -1446885236674552850
+    second: Soldados israel_72
+  - first:
+      213: 1622424966378942752
+    second: Soldados israel_73
+  - first:
+      213: 4280325910396633137
+    second: Soldados israel_74
+  - first:
+      213: 8406175740954466767
+    second: Soldados israel_75
+  - first:
+      213: 5723392644062442145
+    second: Soldados israel_76
+  - first:
+      213: 6121296815292714792
+    second: Soldados israel_77
+  - first:
+      213: 7511016895505010149
+    second: Soldados israel_78
+  - first:
+      213: -2105560464123596710
+    second: Soldados israel_79
+  - first:
+      213: 7454639445744640199
+    second: Soldados israel_80
+  - first:
+      213: 3435496137396842519
+    second: Soldados israel_81
+  - first:
+      213: 6411172451498833306
+    second: Soldados israel_82
+  - first:
+      213: -1758422717706593232
+    second: Soldados israel_83
+  - first:
+      213: -5530271789921615062
+    second: Soldados israel_84
+  - first:
+      213: 7192844951422277104
+    second: Soldados israel_85
+  - first:
+      213: -2111183127442971973
+    second: Soldados israel_86
+  - first:
+      213: -5266612893490910021
+    second: Soldados israel_87
+  - first:
+      213: 6854573378464749854
+    second: Soldados israel_88
+  - first:
+      213: 1637785215881183884
+    second: Soldados israel_89
+  - first:
+      213: 3919822163193379558
+    second: Soldados israel_90
+  - first:
+      213: 8512756135384668527
+    second: Soldados israel_91
+  - first:
+      213: -4217134562133712587
+    second: Soldados israel_92
+  - first:
+      213: -6338585144061462678
+    second: Soldados israel_93
+  - first:
+      213: 8469909017613284140
+    second: Soldados israel_94
+  - first:
+      213: -4996918678702604079
+    second: Soldados israel_95
+  - first:
+      213: 4400408781056008396
+    second: Soldados israel_96
+  - first:
+      213: 3679242608982953138
+    second: Soldados israel_97
+  - first:
+      213: -2916635085498589583
+    second: Soldados israel_98
+  - first:
+      213: 7879730977145139554
+    second: Soldados israel_99
+  - first:
+      213: 8669927379711916746
+    second: Soldados israel_100
+  - first:
+      213: -1300502856757729403
+    second: Soldados israel_101
+  - first:
+      213: -1378252068787234092
+    second: Soldados israel_102
+  - first:
+      213: 1642421056406600942
+    second: Soldados israel_103
+  - first:
+      213: 411923124898788350
+    second: Soldados israel_104
+  - first:
+      213: -6124425826578843972
+    second: Soldados israel_105
+  - first:
+      213: 1266782197732723620
+    second: Soldados israel_106
+  - first:
+      213: -4312360646031404387
+    second: Soldados israel_107
+  - first:
+      213: -7555476127913161900
+    second: Soldados israel_108
+  - first:
+      213: 3137355539917216968
+    second: Soldados israel_109
+  - first:
+      213: 8930386344331915454
+    second: Soldados israel_110
+  - first:
+      213: -9069813049175296283
+    second: Soldados israel_111
+  - first:
+      213: 8196097984486550683
+    second: Soldados israel_112
+  - first:
+      213: 7722510708337165077
+    second: Soldados israel_113
+  - first:
+      213: -3535697561779859874
+    second: Soldados israel_114
+  - first:
+      213: -1146958945179377794
+    second: Soldados israel_115
+  - first:
+      213: 1733960012425561461
+    second: Soldados israel_116
+  - first:
+      213: 6059803141032560018
+    second: Soldados israel_117
+  - first:
+      213: -5903935921342432839
+    second: Soldados israel_118
+  - first:
+      213: -5299157166171233310
+    second: Soldados israel_119
+  - first:
+      213: -9130298961177029102
+    second: Soldados israel_120
+  - first:
+      213: -4510849857180990165
+    second: Soldados israel_121
+  - first:
+      213: -5252896670963871776
+    second: Soldados israel_122
+  - first:
+      213: -8495605855749098227
+    second: Soldados israel_123
+  - first:
+      213: -3697557677746286453
+    second: Soldados israel_124
+  - first:
+      213: 7661899724822513071
+    second: Soldados israel_125
+  - first:
+      213: 423962598191817024
+    second: Soldados israel_126
+  - first:
+      213: 3192685177339466127
+    second: Soldados israel_127
+  - first:
+      213: 7664333985378754326
+    second: Soldados israel_128
+  - first:
+      213: 2947748294755251638
+    second: Soldados israel_129
+  - first:
+      213: 961262168195681431
+    second: Soldados israel_130
+  - first:
+      213: 6889606698966782450
+    second: Soldados israel_131
+  - first:
+      213: -3422539410400331041
+    second: Soldados israel_132
+  - first:
+      213: -3597150929706306535
+    second: Soldados israel_133
+  - first:
+      213: 3405883082433052447
+    second: Soldados israel_134
+  - first:
+      213: 2616719597833584679
+    second: Soldados israel_135
+  - first:
+      213: -1501884106435642036
+    second: Soldados israel_136
+  - first:
+      213: -1288939426170162917
+    second: Soldados israel_137
+  - first:
+      213: 5209208779410509594
+    second: Soldados israel_138
+  - first:
+      213: 2264508022748628772
+    second: Soldados israel_139
+  - first:
+      213: 1475737273184102524
+    second: Soldados israel_140
+  - first:
+      213: 395373882075185532
+    second: Soldados israel_141
+  - first:
+      213: 4935939160685447514
+    second: Soldados israel_142
+  - first:
+      213: -820196034625433266
+    second: Soldados israel_143
+  - first:
+      213: -2761154859966909997
+    second: Soldados israel_144
+  - first:
+      213: 5724860348514124871
+    second: Soldados israel_145
+  - first:
+      213: -4065560811583137783
+    second: Soldados israel_146
+  - first:
+      213: -5493821827685027244
+    second: Soldados israel_147
+  - first:
+      213: -8737017833449952580
+    second: Soldados israel_148
+  - first:
+      213: -2699910448162166260
+    second: Soldados israel_149
+  - first:
+      213: 6008281022013365636
+    second: Soldados israel_150
+  - first:
+      213: 3650153762309818806
+    second: Soldados israel_151
+  - first:
+      213: 624577448259635527
+    second: Soldados israel_152
+  - first:
+      213: 583636512366210145
+    second: Soldados israel_153
+  - first:
+      213: 4817164012799187569
+    second: Soldados israel_154
+  - first:
+      213: 3652730152263971779
+    second: Soldados israel_155
+  - first:
+      213: 1244743389343553046
+    second: Soldados israel_156
+  - first:
+      213: 1993680560724779384
+    second: Soldados israel_157
+  - first:
+      213: 3624712345051041083
+    second: Soldados israel_158
+  - first:
+      213: -1314585729750247012
+    second: Soldados israel_159
+  - first:
+      213: -2772731448395763552
+    second: Soldados israel_160
+  - first:
+      213: -2424588217065764535
+    second: Soldados israel_161
+  - first:
+      213: 8876260196690865094
+    second: Soldados israel_162
+  - first:
+      213: -4955450193134748278
+    second: Soldados israel_163
+  - first:
+      213: 1522737656574272865
+    second: Soldados israel_164
+  - first:
+      213: 3314307854844779004
+    second: Soldados israel_165
+  - first:
+      213: 2226893345289566345
+    second: Soldados israel_166
+  - first:
+      213: -8197035108169531580
+    second: Soldados israel_167
+  - first:
+      213: 593149659215173460
+    second: Soldados israel_168
+  - first:
+      213: -5460972169475742844
+    second: Soldados israel_169
+  - first:
+      213: 4727054784423998656
+    second: Soldados israel_170
+  - first:
+      213: -7406597440615990630
+    second: Soldados israel_171
+  - first:
+      213: 5055381188170521109
+    second: Soldados israel_172
+  - first:
+      213: 4818390639028851649
+    second: Soldados israel_173
+  - first:
+      213: -371261759534230524
+    second: Soldados israel_174
+  - first:
+      213: -7013933588772230184
+    second: Soldados israel_175
+  - first:
+      213: -3098629065358154881
+    second: Soldados israel_176
+  - first:
+      213: -5368694400908446332
+    second: Soldados israel_177
+  - first:
+      213: -8870503861445891894
+    second: Soldados israel_178
+  - first:
+      213: 1497786256284281253
+    second: Soldados israel_179
+  - first:
+      213: 6035911039373354714
+    second: Soldados israel_180
+  - first:
+      213: 6613012451564355181
+    second: Soldados israel_181
+  - first:
+      213: 9045906258453235320
+    second: Soldados israel_182
+  - first:
+      213: -889474226984654797
+    second: Soldados israel_183
+  - first:
+      213: -4553690360726145657
+    second: Soldados israel_184
+  - first:
+      213: 4955113978418792147
+    second: Soldados israel_185
+  - first:
+      213: -8521368138183136992
+    second: Soldados israel_186
+  - first:
+      213: -1427881940313381699
+    second: Soldados israel_187
+  - first:
+      213: -7395158598988291183
+    second: Soldados israel_188
+  - first:
+      213: 1787353063221815918
+    second: Soldados israel_189
+  - first:
+      213: 6561191568403464150
+    second: Soldados israel_190
+  - first:
+      213: 6211143084002459301
+    second: Soldados israel_191
+  - first:
+      213: -1595279053424599120
+    second: Soldados israel_192
+  - first:
+      213: 3469708609698806444
+    second: Soldados israel_193
+  - first:
+      213: 381748238006354989
+    second: Soldados israel_194
+  - first:
+      213: -9112186127557422552
+    second: Soldados israel_195
+  - first:
+      213: -2423752520846306809
+    second: Soldados israel_196
+  - first:
+      213: -3273403939914282756
+    second: Soldados israel_197
+  - first:
+      213: 4682500753950205447
+    second: Soldados israel_198
+  - first:
+      213: 6249801535200920649
+    second: Soldados israel_199
+  - first:
+      213: -8878200542089075751
+    second: Soldados israel_200
+  - first:
+      213: -4458157190855394965
+    second: Soldados israel_201
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Soldados israel_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2049
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8116365db176910800000000000000
+      internalID: 1830462376858687742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 2049
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c770d6938247bd9e0800000000000000
+      internalID: -1595553926861748356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2049
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230291e324239d910800000000000000
+      internalID: 1862575180985475122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_3
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 2049
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa441339d6722520800000000000000
+      internalID: 2675831803848444665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_4
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2049
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9ddc547ae68b310800000000000000
+      internalID: 1421007347145103870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2049
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57eca860fd2124d20800000000000000
+      internalID: 3261189829266427509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_6
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 2049
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8372e1bff8e3680800000000000000
+      internalID: -8773416715365697350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1985
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fe6aa0719beedf0800000000000000
+      internalID: -148978229042548935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_8
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1985
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9078a245875ccf20800000000000000
+      internalID: 3444224044892188829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_9
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1985
+        width: 27
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd60992b84a33e950800000000000000
+      internalID: 6477084772997334747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_10
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1985
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97a46dd4b5c55870800000000000000
+      internalID: 8671054038170904474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_11
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1985
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef1800370a75cbc0800000000000000
+      internalID: -3763467742308982808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_12
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1985
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98470573d5cda630800000000000000
+      internalID: 3940022761011234971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1985
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e7a92950c909010800000000000000
+      internalID: 1193625449001549382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_14
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1921
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818b792e082713590800000000000000
+      internalID: -7696244390316492776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_15
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1921
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2797d75332f85e40800000000000000
+      internalID: 5645528435239917355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_16
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1921
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638b2aa1fdcb08000800000000000000
+      internalID: 36236463429564470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_17
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1921
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804027d402a2de220800000000000000
+      internalID: 2516714084996613128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_18
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1921
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657664f736e76cd20800000000000000
+      internalID: 3298462742897649494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_19
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1921
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288a11e89cbaa38e0800000000000000
+      internalID: -1712867826100754302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_20
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1921
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9a5175498199b30800000000000000
+      internalID: 4294490745069742588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_21
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1857
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222a7e6a4b3cd51c0800000000000000
+      internalID: -4513236070893641182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_22
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1857
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a6d80cffb686420800000000000000
+      internalID: 2623465529134639709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_23
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1857
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f3a5ca6a61add20800000000000000
+      internalID: 3303978181741657975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_24
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1857
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baff7bc1cd66eb780800000000000000
+      internalID: -8665375537453596757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_25
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1857
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc4892b13b47c250800000000000000
+      internalID: 5964818908297317568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_26
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1857
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e683a071e89cca0800000000000000
+      internalID: -5996105199260242421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_27
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1857
+        width: 35
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3850314c30c5fcd10800000000000000
+      internalID: 2148036718523254147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_28
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1793
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bd06f1c64d8c390800000000000000
+      internalID: -7797749193944016016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_29
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1791
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e38331749c1e590800000000000000
+      internalID: -7646609385196077467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_30
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1791
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73807f41502cb9e90800000000000000
+      internalID: -7017802267244427209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_31
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1791
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4e5f3580a4becc0800000000000000
+      internalID: -3680766870816430858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_32
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1791
+        width: 27
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066b85a5db7a7c450800000000000000
+      internalID: 6109035851257788000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_33
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1791
+        width: 26
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd164354981f8a3c0800000000000000
+      internalID: -4347959868352339492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_34
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1791
+        width: 27
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba1fde33caa1e030800000000000000
+      internalID: 3522284139130591927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_35
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1791
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6d4eaa4cd249e00800000000000000
+      internalID: 1050514935788132067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_36
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1729
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6e5f9b801bbeab0800000000000000
+      internalID: -4977690312090196299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_37
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1729
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e0b9fb544ddc630800000000000000
+      internalID: 3949045844306234950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_38
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1729
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd378269e91bb8600800000000000000
+      internalID: 471665880672531419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_39
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1729
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff79ae1e93ff9b930800000000000000
+      internalID: 4159636354921830399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_40
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1729
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e525408b83f8c990800000000000000
+      internalID: -7365369410086427162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_41
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1729
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee88c677e913d2410800000000000000
+      internalID: 1453872811388733678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_42
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1729
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ebdfd874ba4f410800000000000000
+      internalID: 1510020098889203310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_43
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1729
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50a4c91f61d62b70800000000000000
+      internalID: 8874010390884032602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_44
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1665
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2f29e16a5eabae0800000000000000
+      internalID: -1532660221525953861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_45
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1666
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bb6f8fc2a6dbda0800000000000000
+      internalID: -5927464793161680008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_46
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1666
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75818df7a4d9d82f0800000000000000
+      internalID: -968945401516779433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_47
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1666
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a51b23b45d06ae70800000000000000
+      internalID: 9125996352347248033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_48
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1666
+        width: 27
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183f59c0a3047b150800000000000000
+      internalID: 5888245655873647489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_49
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1666
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e74a1b5a3714fd50800000000000000
+      internalID: 6770061679248689122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_50
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1666
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7988517b3ec4cd10800000000000000
+      internalID: 2145066077235218813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_51
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1666
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ce0e4bfa1987fd0800000000000000
+      internalID: -2343963422206399468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_52
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1601
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558810d6c16a37eb0800000000000000
+      internalID: -4723248943163406251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_53
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1601
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0481be1ba0d54720800000000000000
+      internalID: 2829897374245159949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_54
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1601
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1161f261b230d7c0800000000000000
+      internalID: -4048680327555489505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_55
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1601
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614f32c0c72302740800000000000000
+      internalID: 5125151884308640790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_56
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1601
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0da4e1e7633d6470800000000000000
+      internalID: 8389418202125610250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_57
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1601
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff10147899f2b0d0800000000000000
+      internalID: -3408387534788485123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_58
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1601
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719ccf7dbac4ee420800000000000000
+      internalID: 2661148730769328407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_59
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1601
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec6f135f71cd2ef0800000000000000
+      internalID: -131236061524300575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_60
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1538
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b654aa2f8f68330800000000000000
+      internalID: 3712928663936002942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_61
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1538
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f734fdfc9845cfbc0800000000000000
+      internalID: -3748027839004327041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_62
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1537
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73f09343c7eb0ad0800000000000000
+      internalID: -2734837522859232387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_63
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1536
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3eb091be54cf0b80800000000000000
+      internalID: -8426300466801885635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_64
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1537
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ce38ab5ec41a180800000000000000
+      internalID: -9105912422006002657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_65
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1538
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97283c95d13ec9c40800000000000000
+      internalID: 5520536958448927353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_66
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1537
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97926c1083f772ec0800000000000000
+      internalID: -3591762299280021127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_67
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1536
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd458012508388c0800000000000000
+      internalID: -3998210954222023248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_68
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1537
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600abeb93cdb12a20800000000000000
+      internalID: 3035916271656607750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_69
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1473
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37e7cc5a7c9f3190800000000000000
+      internalID: -7980487965320681669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_70
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1473
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60dc146965f46b30800000000000000
+      internalID: 4279815378908794989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_71
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1474
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3b46c5224b1b880800000000000000
+      internalID: -8596892154001574970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_72
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1474
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb914d0b81abebe0800000000000000
+      internalID: -1446885236674552850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_73
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1473
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021fdb339e2048610800000000000000
+      internalID: 1622424966378942752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_74
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1473
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1308714ccb5c66b30800000000000000
+      internalID: 4280325910396633137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_75
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1473
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9d81f6c4cb8a470800000000000000
+      internalID: 8406175740954466767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_76
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1473
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2fc6339439d6f40800000000000000
+      internalID: 5723392644062442145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_77
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1473
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f8040850733f450800000000000000
+      internalID: 6121296815292714792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_78
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1408
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed8886421e7c3860800000000000000
+      internalID: 7511016895505010149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_79
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1409
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a507ec2e9eb87c2e0800000000000000
+      internalID: -2105560464123596710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_80
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1407
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0693c5413347760800000000000000
+      internalID: 7454639445744640199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_81
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1407
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710f3c0f8855daf20800000000000000
+      internalID: 3435496137396842519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_82
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1408
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95bb55706f09f850800000000000000
+      internalID: 6411172451498833306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_83
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1409
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c1f12dad3d897e0800000000000000
+      internalID: -1758422717706593232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_84
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1408
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23cb529b178043b0800000000000000
+      internalID: -5530271789921615062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_85
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1408
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f59cfdbf5e12d360800000000000000
+      internalID: 7192844951422277104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_86
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1408
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2a6f0912293b2e0800000000000000
+      internalID: -2111183127442971973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_87
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1345
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc6bf12a7b39e6b0800000000000000
+      internalID: -5266612893490910021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_88
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1345
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e199d3eab26502f50800000000000000
+      internalID: 6854573378464749854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_89
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1346
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c820cfaf9f49ab610800000000000000
+      internalID: 1637785215881183884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_90
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1346
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea38d34d71066630800000000000000
+      internalID: 3919822163193379558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_91
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1345
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6951254a92632670800000000000000
+      internalID: 8512756135384668527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_92
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1345
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5316ff5857ab975c0800000000000000
+      internalID: -4217134562133712587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_93
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1345
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67f5ad0562d808a0800000000000000
+      internalID: -6338585144061462678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_94
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1345
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23b7b240692b8570800000000000000
+      internalID: 8469909017613284140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_95
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1345
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0ca60cfe067aab0800000000000000
+      internalID: -4996918678702604079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_96
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1281
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc06a55d874611d30800000000000000
+      internalID: 4400408781056008396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_97
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1280
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc09eec8ab4f0330800000000000000
+      internalID: 3679242608982953138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_98
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1280
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e5a6db7d70687d0800000000000000
+      internalID: -2916635085498589583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_99
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1280
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261b06a339d6a5d60800000000000000
+      internalID: 7879730977145139554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_100
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1280
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca79204405c15870800000000000000
+      internalID: 8669927379711916746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_101
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1280
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5872399ca8fa3fde0800000000000000
+      internalID: -1300502856757729403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_102
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1216
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da5df4bb077fdce0800000000000000
+      internalID: -1378252068787234092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_103
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1216
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eecbcb6bf3d0bc610800000000000000
+      internalID: 1642421056406600942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_104
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1216
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef37c5e46e177b500800000000000000
+      internalID: 411923124898788350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_105
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1216
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb63a89c82ba10ba0800000000000000
+      internalID: -6124425826578843972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_106
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1216
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4abc5a772b3849110800000000000000
+      internalID: 1266782197732723620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_107
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1216
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d929ced17da6724c0800000000000000
+      internalID: -4312360646031404387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_108
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1152
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45bcac60e7e852790800000000000000
+      internalID: -7555476127913161900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_109
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1152
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc9edabd302a8b20800000000000000
+      internalID: 3137355539917216968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_110
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1152
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb037e0a01b1feb70800000000000000
+      internalID: 8930386344331915454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_111
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1152
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e634b0f51d812280800000000000000
+      internalID: -9069813049175296283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_112
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1152
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9cad9d21b36eb170800000000000000
+      internalID: 8196097984486550683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_113
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1152
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5134698d29edb2b60800000000000000
+      internalID: 7722510708337165077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_114
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1089
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e85ececcdaeeec0800000000000000
+      internalID: -3535697561779859874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_115
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1089
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f50ac8aee2510f0800000000000000
+      internalID: -1146958945179377794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_116
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1089
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5758b53c173401810800000000000000
+      internalID: 1733960012425561461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_117
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1089
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295ca0eb9deb81450800000000000000
+      internalID: 6059803141032560018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_118
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1089
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b937b75f81011ea0800000000000000
+      internalID: -5903935921342432839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_119
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1089
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3e56d22ac9576b0800000000000000
+      internalID: -5299157166171233310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_120
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1025
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216dced1879aa4180800000000000000
+      internalID: -9130298961177029102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_121
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1023
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b250b9354fd3661c0800000000000000
+      internalID: -4510849857180990165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_122
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1023
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efcd5d0f46f917b0800000000000000
+      internalID: -5252896670963871776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_123
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1023
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05b8506c7b891a80800000000000000
+      internalID: -8495605855749098227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_124
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1023
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b801a61f1e2afacc0800000000000000
+      internalID: -3697557677746286453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_125
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1023
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa585ba8439845a60800000000000000
+      internalID: 7661899724822513071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_126
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1023
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041664f9cb732e500800000000000000
+      internalID: 423962598191817024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_127
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1023
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8159f2d042be4c20800000000000000
+      internalID: 3192685177339466127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_128
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1023
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f547ef62f2d5a60800000000000000
+      internalID: 7664333985378754326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_129
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1023
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5762cc47188e820800000000000000
+      internalID: 2947748294755251638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_130
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1023
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c435759d6175d00800000000000000
+      internalID: 961262168195681431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_131
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1023
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1111e3acccc9f50800000000000000
+      internalID: 6889606698966782450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_132
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1023
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda30552a82b080d0800000000000000
+      internalID: -3422539410400331041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_133
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 961
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914b367b94a541ec0800000000000000
+      internalID: -3597150929706306535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_134
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 961
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f3fea4e90244f20800000000000000
+      internalID: 3405883082433052447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_135
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 961
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7208ca93c94705420800000000000000
+      internalID: 2616719597833584679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_136
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 961
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d391ecc5c382be0800000000000000
+      internalID: -1501884106435642036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_137
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 961
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11b126cb64cc1ee0800000000000000
+      internalID: -1288939426170162917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_138
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 961
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f0c9909c3da4840800000000000000
+      internalID: 5209208779410509594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_139
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 961
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42744fe7c062d6f10800000000000000
+      internalID: 2264508022748628772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_140
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 961
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7821fd2b3fda7410800000000000000
+      internalID: 1475737273184102524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_141
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 961
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c710f827376ac7500800000000000000
+      internalID: 395373882075185532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_142
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 961
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a598891d38aff7440800000000000000
+      internalID: 4935939160685447514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_143
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 961
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4197f55d041e94f0800000000000000
+      internalID: -820196034625433266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_144
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 961
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d134d9b8486ea9d0800000000000000
+      internalID: -2761154859966909997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_145
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 961
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74447e5c72ac27f40800000000000000
+      internalID: 5724860348514124871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_146
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 897
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90896dc6bf93497c0800000000000000
+      internalID: -4065560811583137783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_147
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 898
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452fb8db72602c3b0800000000000000
+      internalID: -5493821827685027244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_148
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 898
+        width: 29
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba66f83290efb680800000000000000
+      internalID: -8737017833449952580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_149
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 897
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0aadeb80cdf78ad0800000000000000
+      internalID: -2699910448162166260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_150
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 897
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48dd3db91c3b16350800000000000000
+      internalID: 6008281022013365636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_151
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 897
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9480ae183f7a230800000000000000
+      internalID: 3650153762309818806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_152
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 897
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7494c3a41e1faa800800000000000000
+      internalID: 624577448259635527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_153
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 897
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c2985d05e791800800000000000000
+      internalID: 583636512366210145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_154
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 897
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ad0bfa5210ad240800000000000000
+      internalID: 4817164012799187569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_155
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 897
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c37d0278ba11b230800000000000000
+      internalID: 3652730152263971779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_156
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 897
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61696568487364110800000000000000
+      internalID: 1244743389343553046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_157
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 897
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8712a9138e9faab10800000000000000
+      internalID: 1993680560724779384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_158
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 897
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d8dbb5ca09d4230800000000000000
+      internalID: 3624712345051041083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_159
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 833
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9950776e37a1cde0800000000000000
+      internalID: -1314585729750247012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_160
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 833
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0f0d030774589d0800000000000000
+      internalID: -2772731448395763552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_161
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 833
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9498233dcd12a5ed0800000000000000
+      internalID: -2424588217065764535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_162
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 833
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cba2b5de9fce2b70800000000000000
+      internalID: 8876260196690865094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_163
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 833
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8dff00fd44ba3bb0800000000000000
+      internalID: -4955450193134748278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_164
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 833
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1656832b4d9d12510800000000000000
+      internalID: 1522737656574272865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_165
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 833
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf95f4c1f69cefd20800000000000000
+      internalID: 3314307854844779004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_166
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 833
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9887aaee2b387ee10800000000000000
+      internalID: 2226893345289566345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_167
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 833
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f3626bff74e3e80800000000000000
+      internalID: -8197035108169531580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_168
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 833
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4571a20f87a4b3800800000000000000
+      internalID: 593149659215173460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_169
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 833
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483aa1ecebab634b0800000000000000
+      internalID: -5460972169475742844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_170
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 833
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4376b084fd99140800000000000000
+      internalID: 4727054784423998656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_171
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 833
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a34cd9eda763990800000000000000
+      internalID: -7406597440615990630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_172
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 767
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a9815f762582640800000000000000
+      internalID: 5055381188170521109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_173
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 769
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3d16cd1cc5ed240800000000000000
+      internalID: 4818390639028851649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_174
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 768
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4049640956309daf0800000000000000
+      internalID: -371261759534230524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_175
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 768
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbec0bff8089ae90800000000000000
+      internalID: -7013933588772230184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_176
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 767
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7360a448457ff4d0800000000000000
+      internalID: -3098629065358154881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_177
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 767
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485393e03e09e75b0800000000000000
+      internalID: -5368694400908446332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_178
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 641
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac869c76cb3a5e480800000000000000
+      internalID: -8870503861445891894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_179
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 640
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9694b1aa439c410800000000000000
+      internalID: 1497786256284281253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_180
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 640
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad625b55c1dd3c350800000000000000
+      internalID: 6035911039373354714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_181
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 640
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e7ab699c326cb50800000000000000
+      internalID: 6613012451564355181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_182
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 640
+        width: 83
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876869690d3898d70800000000000000
+      internalID: 9045906258453235320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_183
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 640
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338e6b737e3f7a3f0800000000000000
+      internalID: -889474226984654797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_184
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 449
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7853ccf4eba0ec0c0800000000000000
+      internalID: -4553690360726145657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_185
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 449
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d68939f8e914c440800000000000000
+      internalID: 4955113978418792147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_186
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 449
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029234393d40eb980800000000000000
+      internalID: -8521368138183136992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_187
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 449
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4ec66c0f42f2ce0800000000000000
+      internalID: -1427881940313381699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_188
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 449
+        width: 106
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193a0a97f6e1f5990800000000000000
+      internalID: -7395158598988291183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_189
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 449
+        width: 81
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6aea852424fdc810800000000000000
+      internalID: 1787353063221815918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_190
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 256
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dff9f108f80e0b50800000000000000
+      internalID: 6561191568403464150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_191
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 257
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae37131ab9623650800000000000000
+      internalID: 6211143084002459301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_192
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 257
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf510f272e6cd9e0800000000000000
+      internalID: -1595279053424599120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_193
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 257
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa3633e891e62030800000000000000
+      internalID: 3469708609698806444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_194
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 238
+        width: 83
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d240008fffd3c4500800000000000000
+      internalID: 381748238006354989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_195
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 241
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82292b3def20b8180800000000000000
+      internalID: -9112186127557422552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_196
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 64
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7029f738ce91d5ed0800000000000000
+      internalID: -2423752520846306809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_197
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 64
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf88b0bb5788292d0800000000000000
+      internalID: -3273403939914282756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_198
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 64
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70663b370a59bf040800000000000000
+      internalID: 4682500753950205447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_199
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 64
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94487562261cbb650800000000000000
+      internalID: 6249801535200920649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_200
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 64
+        width: 104
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3a91c45ab4ac480800000000000000
+      internalID: -8878200542089075751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldados israel_201
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 64
+        width: 82
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69f53eb7a17122c0800000000000000
+      internalID: -4458157190855394965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
