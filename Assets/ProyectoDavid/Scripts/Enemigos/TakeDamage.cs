@@ -14,7 +14,8 @@ public class TakeDamage : DosPatas
     {
         if (collision.gameObject.CompareTag($"{nombreTag}"))
         {
-            if (!invencible && vidaActual > 0 && Vector3.Distance(target.transform.position, transform.position) < atacar)
+         //   if (!invencible && vidaActual > 0 && Vector3.Distance(target.transform.position, transform.position) < atacar)
+            if (!invencible && vidaActual > 0 && Mathf.Abs(target.transform.position.x- transform.position.x) < atacar)
             {
               
                 takeDamage();

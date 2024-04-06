@@ -43,7 +43,9 @@ public class DosPatas : Enemigos
             MovementCharacter(movement);
             Move();
             shouldRotate = true;
-            if (Vector3.Distance(target.transform.position, transform.position) < atacar)
+            
+            //if (Vector3.Distance(target.transform.position, transform.position) < atacar)
+            if (Mathf.Abs(target.transform.position.x- transform.position.x) < atacar)
             {
                 anim.SetBool("IsAtacking", true);
                 anim.SetFloat("x", dir.x);
@@ -126,7 +128,7 @@ public class DosPatas : Enemigos
         }
         else
         {
-            Debug.LogWarning("No se ha asignado un objetivo para calcular la distancia."); // Advierte si no se ha asignado un objetivo
+//            Debug.LogWarning("No se ha asignado un objetivo para calcular la distancia."); // Advierte si no se ha asignado un objetivo
         }
     }
 
