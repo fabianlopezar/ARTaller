@@ -29,9 +29,11 @@ public class DosPatas : Enemigos
     public static QuestManager _questManager;
 
     public string nombreTag;
+    public GameObject panelMuerto;
 
     void Start()
     {
+        panelMuerto.SetActive(false);
        // _questManager = GameObject.FindObjectOfType<QuestManager>();
         anim = GetComponent<Animator>();
         target = GameObject.FindGameObjectWithTag($"{nombreTag}").transform;
@@ -66,8 +68,8 @@ public class DosPatas : Enemigos
     {
         if (vidaActual <= 0)
         {
-            Debug.Log("deberia funcionar");
             Muerte();
+            panelMuerto.SetActive(true);
         }
     }
 
