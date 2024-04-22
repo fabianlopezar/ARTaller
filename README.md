@@ -1,6 +1,7 @@
 # ARTaller
 juego de cartas en realidad virtual.
- 
+
+Version de Unity 2019.4.17f1
 //AR - tutorial
 https://www.youtube.com/watch?v=p8ZASZtoKnQ
 
