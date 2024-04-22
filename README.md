@@ -1,4 +1,5 @@
 # ARTaller
+juego de cartas en realidad virtual.
  
 //AR - tutorial
 https://www.youtube.com/watch?v=p8ZASZtoKnQ
